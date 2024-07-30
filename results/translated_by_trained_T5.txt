@@ -1,0 +1,1776 @@
+Original English sentence: It is bounded by Mexico and Central America to the west and southwest, to the north by the Greater Antilles starting with Cuba, to the east by the Lesser Antilles, and to the south by the northern coast of South America.
+Original Simple English sentence: It is bordered by Cuba, Hispaniola and Puerto Rico in the north, Central America in the west and South America in the south.
+The Simple English sentence from model: The northern coast of South America is bordered by Mexico and Central America to the west and southwest.
+BLEU score: 0.18307622415747082
+Semantic similarity score (cosine-similarity): 0.7091763019561768
+
+Original English sentence: London: Penguin, 2003.
+Original Simple English sentence: Penguin. 2005.
+The Simple English sentence from model: London: Penguin.
+BLEU score: 9.53091075863908e-155
+Semantic similarity score (cosine-similarity): 0.8276792168617249
+
+Original English sentence: Oxford: Blackwell.
+Original Simple English sentence: Blackwell, Oxford.
+The Simple English sentence from model: Oxford:
+BLEU score: 3.418291552750845e-232
+Semantic similarity score (cosine-similarity): 0.6587610840797424
+
+Original English sentence: For a brief period lasting approximately four days, both North and South Poles are in daylight.
+Original Simple English sentence: There are 24 hours of darkness at the North Pole and 24 hours of daylight at the South Pole.
+The Simple English sentence from model: The North and South Poles are in daylight for four days.
+BLEU score: 4.006957178545495e-155
+Semantic similarity score (cosine-similarity): 0.7256509065628052
+
+Original English sentence: Cambridge University Press, 2008.
+Original Simple English sentence: 5th ed, Oxford University Press.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 4.6278283821851e-155
+Semantic similarity score (cosine-similarity): 0.7341436743736267
+
+Original English sentence: Early and medieval era.
+Original Simple English sentence: Ancient and Medieval Eras.
+The Simple English sentence from model: Early and medieval era.
+BLEU score: 8.396161215621529e-232
+Semantic similarity score (cosine-similarity): 0.8603212237358093
+
+Original English sentence: It borders Sweden to the northwest, Norway to the north, and Russia to the east, with the Gulf of Bothnia to the west and the Gulf of Finland to the south, opposite Estonia.
+Original Simple English sentence: Its neighbours are Sweden to the west, Norway to the north, Russia to the east and Estonia to the south, beyond the sea called Gulf of Finland.
+The Simple English sentence from model: It borders Sweden to the northwest, Norway to the north, and Russia to the east, with the Gulf of Bothnia to the west and the Gulf of Finland to the south, opposite Estonia.
+BLEU score: 0.31148776466343303
+Semantic similarity score (cosine-similarity): 0.9215453267097473
+
+Original English sentence: September 28, 2010.
+Original Simple English sentence: February 4, 2010.
+The Simple English sentence from model: January 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6390233039855957
+
+Original English sentence: Hobbes's dual nature is a defining motif for the strip: to Calvin, Hobbes is a living anthropomorphic tiger, while all the other characters seem to see Hobbes as an inanimate stuffed Watterson has not clarified exactly how Hobbes is perceived by others.
+Original Simple English sentence: From Calvin's point of view, Hobbes is a real, intelligent, loyal, and cunning tiger, much larger than Calvin and full of his own attitudes and ideas.
+The Simple English sentence from model: In fact, Hobbes' dual nature is a defining motif for the strip.
+BLEU score: 0.06635358186830428
+Semantic similarity score (cosine-similarity): 0.555213451385498
+
+Original English sentence: The density of a material varies with temperature and pressure.
+Original Simple English sentence: In general, density can be changed by changing either the pressure or the temperature.
+The Simple English sentence from model: Increasing the pressure always increases the density of a material.
+BLEU score: 5.010854169466314e-155
+Semantic similarity score (cosine-similarity): 0.6245120763778687
+
+Original English sentence: Invasive species.
+Original Simple English sentence: Invasive species.
+The Simple English sentence from model: Invasive species.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: She died in her sleep of Alzheimer's disease at the Greenways Nursing Home, Hampstead, North London, on 28 November 1968, aged 71.
+Original Simple English sentence: She died of Alzheimer's disease in Hampstead, London.
+The Simple English sentence from model: She died in her sleep of Alzheimer's disease at the Greenways Nursing Home, North London, on 28 November 1968, aged 71.
+BLEU score: 0.15511550090520096
+Semantic similarity score (cosine-similarity): 0.6707789897918701
+
+Original English sentence: Dance is not solely restricted to performance, as dance is used as a form of exercise and occasionally training for other sports and activities.
+Original Simple English sentence: Dancing is sometimes done as sport, and has similar athletic aspects.
+The Simple English sentence from model: Dance is sometimes used as a way of training or exercise.
+BLEU score: 5.527118757926412e-155
+Semantic similarity score (cosine-similarity): 0.810436487197876
+
+Original English sentence: In 1980 Sagan co-wrote and narrated the award-winning 13-part PBS television series ''Cosmos: A Personal Voyage'', which became the most widely watched series in the history of American public television until 1990.
+Original Simple English sentence: Cosmos'' was a television series about many different scientific topics, which Sagan co-wrote and narrated.
+The Simple English sentence from model: In 1980 Sagan co-wrote and narrated the award-winning PBS television series ''Cosmos: a personal Voyage'', which became the most watched series in the history of American public television.
+BLEU score: 0.24373931274745247
+Semantic similarity score (cosine-similarity): 0.6775165796279907
+
+Original English sentence: Baltimore, MD: Johns Hopkins University Press, 2013.
+Original Simple English sentence: Johns Hopkins University Press.
+The Simple English sentence from model: Johns Hopkins University Press.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.0000001192092896
+
+Original English sentence: From  during the late 1990s.
+Original Simple English sentence: Late 1970s and 1980s.
+The Simple English sentence from model: From the early 1990s.
+BLEU score: 6.416038883891965e-155
+Semantic similarity score (cosine-similarity): 0.6876722574234009
+
+Original English sentence: Fighting Windmills: Encounters with Don Quixote''.
+Original Simple English sentence: One of the most famous stories in the book is Don Quixote's fight with windmills.
+The Simple English sentence from model: Fighting Windmills: Encounters with Don Quixote''.
+BLEU score: 0.2786630114221869
+Semantic similarity score (cosine-similarity): 0.8424251675605774
+
+Original English sentence: 2006.
+Original Simple English sentence: 2008.
+The Simple English sentence from model: 2002.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.482799768447876
+
+Original English sentence: George Orwell: A Life''.
+Original Simple English sentence: ''George Orwell''.
+The Simple English sentence from model: George Orwell biography''.
+BLEU score: 4.744822399347669e-78
+Semantic similarity score (cosine-similarity): 0.8657509088516235
+
+Original English sentence: McGraw-Hill.
+Original Simple English sentence: McGraw-Hill.
+The Simple English sentence from model: McGraw-Hill:
+BLEU score: 0.7598356856515925
+Semantic similarity score (cosine-similarity): 0.9575920701026917
+
+Original English sentence: Acad.
+Original Simple English sentence: Acad.
+The Simple English sentence from model: Acad.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: Double bass players use various accessories to help them to perform and rehearse.
+Original Simple English sentence: Double bass players hold down the metal strings against the fingerboard with their left hand and then bow the string or pluck it with their right hand.
+The Simple English sentence from model: Double bass players can also play other double bass games, even if they are playing traditional double bass games.
+BLEU score: 1.4563486100486722e-78
+Semantic similarity score (cosine-similarity): 0.6440118551254272
+
+Original English sentence: ''Evolutionary Psychology''.
+Original Simple English sentence: ''Evolutionary biology''.
+The Simple English sentence from model: Evolutionary analysis''.
+BLEU score: 3.1862778059488126e-78
+Semantic similarity score (cosine-similarity): 0.8271209597587585
+
+Original English sentence: Cambridge University Press (1986), p.
+Original Simple English sentence: Oxford University Press, Oxford.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 6.206021746903507e-78
+Semantic similarity score (cosine-similarity): 0.8070186376571655
+
+Original English sentence: Wiley-VCH.
+Original Simple English sentence: Wiley.
+The Simple English sentence from model: Wiley.
+BLEU score: 1.2213386697554703e-77
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: In 1998, DC purchased WildStorm Comics, Jim Lee's imprint under the Image Comics banner, continuing it for many years as a wholly separate imprint and fictional universe with its own style and audience.
+Original Simple English sentence: DC purchased Wildstorm Comics from Jim Lee and maintained it as a separate imprint with its own style and audience.
+The Simple English sentence from model: In 1998, DC purchased WildStorm Comics, Jim Lee's imprint under the Image Comics banner.
+BLEU score: 2.906012374846924e-78
+Semantic similarity score (cosine-similarity): 0.8154492974281311
+
+Original English sentence: Fulham drifted between the second and fourth tiers until being taken over by Mohamed Al-Fayed in 1997.
+Original Simple English sentence: When Mohamed Al-Fayed bought Fulham in 1997, it was in the 3rd division of English football Football League One.
+The Simple English sentence from model: Fulham were taken over by Mohamed Al-Fayed in 1997.
+BLEU score: 0.17226358000879274
+Semantic similarity score (cosine-similarity): 0.7486651539802551
+
+Original English sentence: Literature.
+Original Simple English sentence: Novels.
+The Simple English sentence from model: Literature.
+BLEU score: 1.384292958842266e-231
+Semantic similarity score (cosine-similarity): 0.7038912177085876
+
+Original English sentence: Each banknote has its own colour and is dedicated to an artistic period of European architecture.
+Original Simple English sentence: On every banknote, there is a picture of a different European building style.
+The Simple English sentence from model: Each banknote has its own colour and is dedicated to an artistic period of European architecture.
+BLEU score: 5.5818694086831284e-155
+Semantic similarity score (cosine-similarity): 0.6896377801895142
+
+Original English sentence: Synthetic diamonds are diamonds manufactured in a laboratory, as opposed to diamonds mined from the Earth.
+Original Simple English sentence: There are natural and synthetic diamonds.
+The Simple English sentence from model: The Earth makes natural diamonds, and the Earth makes synthetic diamonds.
+BLEU score: 0.18207052811092134
+Semantic similarity score (cosine-similarity): 0.803144097328186
+
+Original English sentence: Retrieved on July 24, 2008.
+Original Simple English sentence: Retrieved on 5 March 2009.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.5740376710891724
+
+Original English sentence: Language !!
+Original Simple English sentence: English!
+The Simple English sentence from model: English!!
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.9413005709648132
+
+Original English sentence: Each eukaryotic chromosome consists of a long linear DNA molecule associated with proteins, forming a compact complex of proteins and DNA called ''chromatin.''
+Original Simple English sentence: Inside eukaryotic cells, DNA is organized into chromosomes.
+The Simple English sentence from model: Chromosomes are made up of DNA and protein combined as chromatin.
+BLEU score: 1.2508498911928379e-231
+Semantic similarity score (cosine-similarity): 0.6877080202102661
+
+Original English sentence: The law is called the ''conservation of energy''.
+Original Simple English sentence: '''Conservation of energy:''' this is the first law of thermodynamics, energy is never created or destroyed, it just changes form (i.e. kinetic energy into potential energy) or moves around.
+The Simple English sentence from model: The energy law is called the ''conservation of energy''.
+BLEU score: 0.036992259239678325
+Semantic similarity score (cosine-similarity): 0.7258498668670654
+
+Original English sentence: 1962
+Original Simple English sentence: 1965
+The Simple English sentence from model: 1962
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.8005936145782471
+
+Original English sentence: Cambridge University Press.
+Original Simple English sentence: Harvard University Press.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.601093590259552
+
+Original English sentence: The exact causes for its extinction are unknown.
+Original Simple English sentence: The causes of this extinction are not yet clear.
+The Simple English sentence from model: '''The cause''' is unknown.
+BLEU score: 1.1640469867513693e-231
+Semantic similarity score (cosine-similarity): 0.45559626817703247
+
+Original English sentence: In contemporary usage, the term ''eugenics'' is closely associated with scientific racism.
+Original Simple English sentence: '''Eugenics''' is a social and political philosophy.
+The Simple English sentence from model: But some of those who led the eugenics movement used it to justify racism and prejudice.
+BLEU score: 2.405086477533305e-78
+Semantic similarity score (cosine-similarity): 0.6282952427864075
+
+Original English sentence: Liverpool University Press.
+Original Simple English sentence: Oxford University Press.
+The Simple English sentence from model: University College London Press.
+BLEU score: 9.283142785759642e-155
+Semantic similarity score (cosine-similarity): 0.8246872425079346
+
+Original English sentence: Cambridge Massachusetts: Harvard University Press. 2010.
+Original Simple English sentence: Cambridge University Press, Cambridge.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 0.9999998807907104
+
+Original English sentence: Lake Michigan!
+Original Simple English sentence: Lake Erie!
+The Simple English sentence from model: Lake Huron!
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.7574023008346558
+
+Original English sentence: Retrieved 14 June 2006.
+Original Simple English sentence: Retrieved 2007-10-12.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.6266014575958252
+
+Original English sentence: This version was almost twice the size of the previous one and was the first version with a white background.
+Original Simple English sentence: This version was almost twice the size of the first one, and also was the first version with a white background.
+The Simple English sentence from model: This version was almost twice the size of the previous one and was the first with a white background.
+BLEU score: 0.597413915820298
+Semantic similarity score (cosine-similarity): 0.9606921076774597
+
+Original English sentence: Oxford University Press US.
+Original Simple English sentence: Oxford University Press, Oxford.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 6.562069055463047e-78
+Semantic similarity score (cosine-similarity): 0.9829261302947998
+
+Original English sentence: Analog circuits.
+Original Simple English sentence: Analog circuits.
+The Simple English sentence from model: Analog circuits.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.000000238418579
+
+Original English sentence: As a chain of lakes and rivers, they connect the east-central interior of North America to the Atlantic Ocean.
+Original Simple English sentence: The lakes connect the east-central interior of North America to the Atlantic Ocean.
+The Simple English sentence from model: As a chain of lakes and rivers, they connect the east central interior of North America to the Atlantic Ocean.
+BLEU score: 0.413948387915005
+Semantic similarity score (cosine-similarity): 0.9528586268424988
+
+Original English sentence: Prize laureate (d. 1992)
+Original Simple English sentence: Prize laureate (d. 1968)
+The Simple English sentence from model: Prize laureate 2004.
+BLEU score: 0.3258798048281462
+Semantic similarity score (cosine-similarity): 0.756324052810669
+
+Original English sentence: 2019 2001.
+Original Simple English sentence: 1998.
+The Simple English sentence from model: 2002.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.6506527662277222
+
+Original English sentence: In 1968 the Arenal Volcano, in Costa Rica, erupted killing 87 people as the 3 villages of Tabacon, Pueblo Nuevo and San Luis were buried under pyroclastic flows and debris.
+Original Simple English sentence: In 1968 the Arenal Volcano in Costa Rica erupted.
+The Simple English sentence from model: In 1968 the Arenal Volcano in Costa Rica erupted killing 87 people as the 3 villages of Tabacon, Pueblo Nuevo and San Luis were buried under pyroclastic flows and debris.
+BLEU score: 0.2708059817697107
+Semantic similarity score (cosine-similarity): 0.7987229824066162
+
+Original English sentence: Florence under the Black Guelphs, therefore, considered Dante an absconder.Dante did not pay the fine, in part because he believed he was not guilty and in part because all his assets in Florence had been seized by the Black Guelphs.
+Original Simple English sentence: Dante did not pay the money, in part because he believed he was not guilty, and in part because all his needs in Florence had been stolen by the Black Guelphs.
+The Simple English sentence from model: Dante was fined for his part, partly because he believed he was not guilty and partly because all his assets in Florence were taken by the Black Guelphs.
+BLEU score: 0.46604170446101056
+Semantic similarity score (cosine-similarity): 0.8341832756996155
+
+Original English sentence: Martin Luther lived there as a monk between 1505 and 1511.
+Original Simple English sentence: Martin Luther, the father of the Reformation, lived at St. Augustine's Monastery from 1505 until 1511.
+The Simple English sentence from model: Martin Luther King 1505
+BLEU score: 1.1924291845245433e-156
+Semantic similarity score (cosine-similarity): 0.5928447246551514
+
+Original English sentence: Other false disproofs violate the assumptions of the theorem, such as using a region that consists of multiple disconnected parts, or disallowing regions of the same color from touching at a point.
+Original Simple English sentence: Other false disproofs violate the assumptions of the theorem in unexpected ways, such as using a region that has multiple disconnected parts, or not allowing regions of the same color from touching at a point.
+The Simple English sentence from model: Other false disproofs violate the assumptions of the theorem, such as using a region that consists of multiple disconnected parts, or disallowing regions of the same color from touching at a point.
+BLEU score: 0.7627274273692304
+Semantic similarity score (cosine-similarity): 0.9806926250457764
+
+Original English sentence: Screening devices based on diamond type detection can be used to make a distinction between diamonds that are certainly natural and diamonds that are potentially synthetic.
+Original Simple English sentence: There are natural and synthetic diamonds.
+The Simple English sentence from model: A screening device based on diamond type detection can be used to distinguish between natural and synthetic diamonds.
+BLEU score: 0.22374677077485583
+Semantic similarity score (cosine-similarity): 0.7479376792907715
+
+Original English sentence: Internal combustion engine.
+Original Simple English sentence: It is one of the most used kinds of internal combustion engine.
+The Simple English sentence from model: There are many different types of internal combustion engine.
+BLEU score: 0.2910042507378282
+Semantic similarity score (cosine-similarity): 0.8852927684783936
+
+Original English sentence: If we required the entire territory of a country to receive the same color, then four colors are not always sufficient.
+Original Simple English sentence: Because the territory of a particular country must be the same color, four colors may not be enough.
+The Simple English sentence from model: If the entire territory of a country must receive the same color, then four colors are not always sufficient.
+BLEU score: 0.2719326877457978
+Semantic similarity score (cosine-similarity): 0.9468781352043152
+
+Original English sentence: Oxford University Press, 2002.
+Original Simple English sentence: 5th ed, Oxford University Press.
+The Simple English sentence from model: 5th ed, Oxford University Press.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 0.9999999403953552
+
+Original English sentence: Language, Truth, and Logic''.
+Original Simple English sentence: Language, truth and logic''.
+The Simple English sentence from model: Truth and logic''.
+BLEU score: 0.5444460596606694
+Semantic similarity score (cosine-similarity): 0.883284330368042
+
+Original English sentence: Evaporative equilibrium.
+Original Simple English sentence: Rate of evaporation.
+The Simple English sentence from model: Evaporative equilibrium.
+BLEU score: 9.711929667259895e-232
+Semantic similarity score (cosine-similarity): 0.7110643982887268
+
+Original English sentence: 2011
+Original Simple English sentence: 2011.
+The Simple English sentence from model: 2011.
+BLEU score: 1.821831989445342e-231
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: Electric charge is carried by subatomic particles.
+Original Simple English sentence: '''Electric charge''' is a basic property of electrons, protons and other subatomic particles.
+The Simple English sentence from model: Subatomic particles charge electricity.
+BLEU score: 2.7219253680682215e-156
+Semantic similarity score (cosine-similarity): 0.6874244213104248
+
+Original English sentence: Caffeinated drinks that contain the stimulant caffeine have a long history.
+Original Simple English sentence: The biggest use of caffeine is as a stimulant.
+The Simple English sentence from model: Caffeine is the active ingredient in coffee.
+BLEU score: 9.97486269044271e-232
+Semantic similarity score (cosine-similarity): 0.6812680959701538
+
+Original English sentence: 2005.
+Original Simple English sentence: 2002.
+The Simple English sentence from model: 2004.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.732735276222229
+
+Original English sentence: General Douglas MacArthur orders that Shinto be abolished as the state religion of Japan.
+Original Simple English sentence: General Douglas MacArthur orders end of Shinto as state religion of Japan.
+The Simple English sentence from model: General Douglas MacArthur orders Shinto be abolished as the state religion of Japan.
+BLEU score: 0.4790714250659131
+Semantic similarity score (cosine-similarity): 0.8513252139091492
+
+Original English sentence: Distillation:
+Original Simple English sentence: File:Simple chem distillation.
+The Simple English sentence from model: The process of distillation.
+BLEU score: 2.965165608665095e-78
+Semantic similarity score (cosine-similarity): 0.6358647346496582
+
+Original English sentence: The hardness of diamond contributes to its suitability as a gemstone.
+Original Simple English sentence: Diamonds have the highest hardness of any bulk (all one type) material.
+The Simple English sentence from model: But diamonds are very hard and in crystalline form.
+BLEU score: 8.492533948167978e-232
+Semantic similarity score (cosine-similarity): 0.6714553833007812
+
+Original English sentence: 1975.
+Original Simple English sentence: 1951  1975.
+The Simple English sentence from model: 1984.
+BLEU score: 9.291879812217675e-232
+Semantic similarity score (cosine-similarity): 0.5478149056434631
+
+Original English sentence: Harvard University Press.
+Original Simple English sentence: University of Chicago Press.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.4708455801010132
+
+Original English sentence: Cacti were cultivated as ornamental plants from the time they were first brought from the New World.
+Original Simple English sentence: Now cacti have spread to many other parts of the world, and many people like to grow them in pots or gardens.
+The Simple English sentence from model: Some cacti are grown in gardens, especially in dry areas.
+BLEU score: 0.08224050814968702
+Semantic similarity score (cosine-similarity): 0.775510311126709
+
+Original English sentence: Retrieved 18 May 2016.
+Original Simple English sentence: Retrieved March 10, 2005.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.7269831895828247
+
+Original English sentence: The Complete Works of George Orwell''.
+Original Simple English sentence: George Orwell: The Lost Writings''.
+The Simple English sentence from model: ''George Orwell''.
+BLEU score: 4.062013885348539e-78
+Semantic similarity score (cosine-similarity): 0.629305899143219
+
+Original English sentence: Dissolution of the Soviet Union: The Central Committee of the Soviet Communist Party agrees to give up its monopoly on power.
+Original Simple English sentence: The Central Committee of the Soviet Communist Party agrees to give up its monopoly of power.
+The Simple English sentence from model: The Central Committee of the Soviet Communist Party agrees to give up its monopoly on power.
+BLEU score: 0.8739351325046805
+Semantic similarity score (cosine-similarity): 0.9955778121948242
+
+Original English sentence: The population density was .
+Original Simple English sentence: Population density.
+The Simple English sentence from model: The population density was.
+BLEU score: 1.4488496539373276e-231
+Semantic similarity score (cosine-similarity): 0.9519730806350708
+
+Original English sentence: Academic Press.
+Original Simple English sentence: Harvard University Press.
+The Simple English sentence from model: University College London Press.
+BLEU score: 9.283142785759642e-155
+Semantic similarity score (cosine-similarity): 0.6089094281196594
+
+Original English sentence: Feast of St. Paul's Shipwreck (Public holiday in Malta)
+Original Simple English sentence: Feast of Saint Paul's Shipwreck (Malta)
+The Simple English sentence from model: Feast of St. Paul's Shipwreck Malta.
+BLEU score: 0.46091613189209335
+Semantic similarity score (cosine-similarity): 0.9714577794075012
+
+Original English sentence: Such instruments are called electric acoustic guitars.
+Original Simple English sentence: These guitars, which are often used in popular music, are called ''electric guitars''.
+The Simple English sentence from model: Some companies that make electric guitars are Fender, Gibson, and Fender.
+BLEU score: 4.0391259607081926e-155
+Semantic similarity score (cosine-similarity): 0.7336854934692383
+
+Original English sentence: 2001.
+Original Simple English sentence: 2000.
+The Simple English sentence from model: 2002
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6461665630340576
+
+Original English sentence: At the very end of the inter-war period in Europe came the Spanish Civil War.
+Original Simple English sentence: After this  uprising the Spanish Civil War started.  
+The Simple English sentence from model: The Spanish Civil War ended in Europe after the Spanish Civil War.
+BLEU score: 0.2044800736021839
+Semantic similarity score (cosine-similarity): 0.7362569570541382
+
+Original English sentence: There are several broad classes of flutes.
+Original Simple English sentence: Flute has many variations of the sound.
+The Simple English sentence from model: In addition, there are other flutes like piccolos, bells, and bass flutes.
+BLEU score: 8.510469113101058e-232
+Semantic similarity score (cosine-similarity): 0.7065918445587158
+
+Original English sentence: Statues and monuments.
+Original Simple English sentence: Buildings and monuments.
+The Simple English sentence from model: Statuen und Monuments.
+BLEU score: 6.968148412761692e-155
+Semantic similarity score (cosine-similarity): 0.6805515289306641
+
+Original English sentence: Cambridge: Cambridge University Press.
+Original Simple English sentence: University College London Press.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.7712908387184143
+
+Original English sentence: Country or territory!
+Original Simple English sentence: Country!
+The Simple English sentence from model: Country!!
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.9508289098739624
+
+Original English sentence: Retrieved 6 March 2008.
+Original Simple English sentence: Retrieved March 10, 2005.
+The Simple English sentence from model: Retrieved April 2010.
+BLEU score: 5.780789590099596e-155
+Semantic similarity score (cosine-similarity): 0.7580320239067078
+
+Original English sentence: A Very Brief History of the Cornish Language''.
+Original Simple English sentence: '''Cornish''' (Cornish: Kernewek) is a very old language from Cornwall in the southwest of England.
+The Simple English sentence from model: The origins of the Cornish language.
+BLEU score: 9.779499671563305e-233
+Semantic similarity score (cosine-similarity): 0.7206670045852661
+
+Original English sentence: In this period, people from across the political spectrum espoused eugenic ideas.
+Original Simple English sentence: '''Eugenics''' is a social and political philosophy.
+The Simple English sentence from model: Eugenics rests on some basic ideas.
+BLEU score: 4.95337021941109e-232
+Semantic similarity score (cosine-similarity): 0.6277899742126465
+
+Original English sentence: April 1989.
+Original Simple English sentence: January 8, 1995.
+The Simple English sentence from model: 1984.
+BLEU score: 5.635809992474887e-232
+Semantic similarity score (cosine-similarity): 0.323281854391098
+
+Original English sentence: The Connecticut Colony was originally a number of separate, smaller settlements at Windsor, Wethersfield, Saybrook, Hartford, and New Haven.
+Original Simple English sentence: Colonies were also established at Old Saybrook and New Haven, which later became part of Connecticut.
+The Simple English sentence from model: Historically important colonial settlements included: Windsor, Wethersfield, Saybrook, Hartford, and New Haven.
+BLEU score: 2.3394285299910343e-78
+Semantic similarity score (cosine-similarity): 0.6393030881881714
+
+Original English sentence: Advances in science have changed eugenics.
+Original Simple English sentence: Eugenics today.
+The Simple English sentence from model: Eugenics rests on some basic ideas.
+BLEU score: 3.965294799986402e-78
+Semantic similarity score (cosine-similarity): 0.6638641953468323
+
+Original English sentence: August 31, 2010.
+Original Simple English sentence: February 4, 2010.
+The Simple English sentence from model: January 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6390233039855957
+
+Original English sentence: Ecosystem ecology is the science of determining the fluxes of materials (e.g. carbon, phosphorus) between different pools (e.g., tree biomass, soil organic material).
+Original Simple English sentence: '''Ecology''' is the branch or aspect of biology that  studies the biota (living things), the environment, and their interactions.
+The Simple English sentence from model: Ecology is the study of ecosystems.
+BLEU score: 4.761107986910297e-156
+Semantic similarity score (cosine-similarity): 0.7300270199775696
+
+Original English sentence: Boston:
+Original Simple English sentence: Boston:
+The Simple English sentence from model: Boston:
+BLEU score: 1.491668146240062e-154
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: p. 165.
+Original Simple English sentence: p. 175.
+The Simple English sentence from model: p. 175.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: Cambridge University Press.
+Original Simple English sentence: Oxford: Oxford University Press.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.8103949427604675
+
+Original English sentence: Digital circuits are electric circuits based on a number of discrete voltage levels.
+Original Simple English sentence: Digital circuits.
+The Simple English sentence from model: Digital circuits.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: The Theory of Knowledge: A Coursebook'', The Lutterworth Press, Cambridge.
+Original Simple English sentence: Theory of knowledge''.
+The Simple English sentence from model: 5th ed, Oxford University Press.
+BLEU score: 1.0244914152188952e-231
+Semantic similarity score (cosine-similarity): 0.030558137223124504
+
+Original English sentence: Greek goddessesCategory:Harvest goddessesCategory:Horse deitiesCategory:Justice goddessesCategory:KourotrophoiCategory:Metamorphoses charactersCategory:Mother goddessesCategory:Mythological rape victimsCategory:Nature goddessesCategory:Primordial teachersCategory:Rape of PersephoneCategory:SeasonsCategory:Shapeshifters in Greek mythologyCategory:Spring deitiesCategory:Twelve OlympiansCategory:Women of HeliosCategory:Women of Poseidon
+Original Simple English sentence: Category:Greek gods and goddesses
+The Simple English sentence from model: Category:Shapeshifters in mythology Category:Poseidon
+BLEU score: 4.987693055201041e-155
+Semantic similarity score (cosine-similarity): 0.5412193536758423
+
+Original English sentence: Human chromosomes.
+Original Simple English sentence: They include a pair of sex chromosomes.
+The Simple English sentence from model: The chromosomes''.
+BLEU score: 0.23983663471592362
+Semantic similarity score (cosine-similarity): 0.8095124363899231
+
+Original English sentence: Novels.
+Original Simple English sentence: Novels.
+The Simple English sentence from model: Novels.
+BLEU score: 1.2213386697554703e-77
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: See also the List of double bassists in popular music.
+Original Simple English sentence: The double bass also has many other names.
+The Simple English sentence from model: Double bassists have long played a part in music for a long time.
+BLEU score: 1.0518351895246305e-231
+Semantic similarity score (cosine-similarity): 0.5814006924629211
+
+Original English sentence: All of the known forces of the universe are classified into four fundamental interactions.
+Original Simple English sentence: There are four fundamental forces in physics.
+The Simple English sentence from model: The four forces of the Universe.
+BLEU score: 1.1077199809555581e-231
+Semantic similarity score (cosine-similarity): 0.7289479970932007
+
+Original English sentence: 2011.
+Original Simple English sentence: 2011
+The Simple English sentence from model: 2011.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.9477134346961975
+
+Original English sentence: The ''total element score'' and the ''program components score'' are added to give the total score for a competition segment (TSS).
+Original Simple English sentence: The total of all the elements scores gives the Technical Score.
+The Simple English sentence from model: The '''total element score''' and ''program component score'' are added to give the total score for a competition segment (TSS).
+BLEU score: 9.65701126654974e-232
+Semantic similarity score (cosine-similarity): 0.6101151704788208
+
+Original English sentence: New York:  Cambridge University Press.  
+Original Simple English sentence: Harvard University Press.
+The Simple English sentence from model: Oxford University Press, Oxford.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.6065174341201782
+
+Original English sentence: If there are more electrons than protons in a piece of matter, it will have a negative charge, if there are fewer it will have a positive charge, and if there are equal numbers it will be neutral.
+Original Simple English sentence: Electrons are negatively charged while protons are positively charged.
+The Simple English sentence from model: Things that have more electrons than protons are negatively charged, while things with fewer electrons than protons are positively charged.
+BLEU score: 0.22883550345495304
+Semantic similarity score (cosine-similarity): 0.9021797180175781
+
+Original English sentence: (1999).
+Original Simple English sentence: (2002).  
+The Simple English sentence from model: 1999
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6074780225753784
+
+Original English sentence: In November 1949, the logo was modified to incorporate the company's formal name, National Comics Publications.
+Original Simple English sentence: In November 1949, the logo was modified, incorporating the company's current name (National Comics Publications) into the logo.
+The Simple English sentence from model: In 1949, National Comics Publications changed the logo to include the official name of the company.
+BLEU score: 0.1306872658050598
+Semantic similarity score (cosine-similarity): 0.8985515236854553
+
+Original English sentence: External USB-based floppy disk drives are still available, and many modern systems provide firmware support for booting from such drives.
+Original Simple English sentence: Today, floppy disks have been replaced by other storage media, like USB flash drives.
+The Simple English sentence from model: Floppy disks are still available, and many modern systems provide firmware support for booting from such drives.
+BLEU score: 2.5658794074827934e-78
+Semantic similarity score (cosine-similarity): 0.6478854417800903
+
+Original English sentence: While one is intentionally similar to the other, they're different.
+Original Simple English sentence: They differ slightly in spelling, pronunciation, and vocabulary.
+The Simple English sentence from model: While one is intentionally similar to the other, they're different.
+BLEU score: 1.1200407237786664e-231
+Semantic similarity score (cosine-similarity): 0.4938117265701294
+
+Original English sentence: Harvard University Press.
+Original Simple English sentence: Harvard University Press.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.601093590259552
+
+Original English sentence: This logo was the first to occupy the top-left corner of the cover, where the logo has usually resided since.
+Original Simple English sentence: This logo was also the first version to occupy the top left corner of the cover, where the logo has usually resided ever since.
+The Simple English sentence from model: This was the first to occupy the top-left corner of the cover, where the logo has usually resided since.
+BLEU score: 0.5810150995528444
+Semantic similarity score (cosine-similarity): 0.9285297393798828
+
+Original English sentence: Within eukaryotic chromosomes, chromatin proteins, such as histones, compact and organize DNA.
+Original Simple English sentence: Chromosomes are made up of DNA and protein combined as chromatin.
+The Simple English sentence from model: Inside eukaryotic cells, DNA is organized into chromosomes.
+BLEU score: 1.2508498911928379e-231
+Semantic similarity score (cosine-similarity): 0.6877080202102661
+
+Original English sentence: A Very Brief History of the Cornish Language''.
+Original Simple English sentence: A long time ago, Cornish was the only language spoken in Cornwall, but more and more people began to speak English, instead of Cornish.
+The Simple English sentence from model: The origins of the Cornish language.
+BLEU score: 7.771826792367947e-156
+Semantic similarity score (cosine-similarity): 0.8317214250564575
+
+Original English sentence: Compared to an acoustic guitar, which has a hollow body, electric guitars make much less audible sound when their strings are plucked, so electric guitars are normally plugged into a guitar amplifier and speaker.
+Original Simple English sentence: A electric guitar can be flat, hollow, or semi-hollow (solid with hollow pockets on the sides), and produces sound through its pickups, which are wire-wound magnets that are screwed onto the guitar.
+The Simple English sentence from model: A electric guitar can be flat, hollow, and can sound much less sound than a acoustic guitar.
+BLEU score: 0.13912552444230855
+Semantic similarity score (cosine-similarity): 0.8789562582969666
+
+Original English sentence: Oxford University Press, 1999.
+Original Simple English sentence: Cambridge University Press.
+The Simple English sentence from model: 5th ed, Oxford University Press.
+BLEU score: 3.690122608639576e-78
+Semantic similarity score (cosine-similarity): 0.7701996564865112
+
+Original English sentence: New Haven, CT: Yale University Press.
+Original Simple English sentence: New Haven, Conn: Yale University Press.
+The Simple English sentence from model: Yale University Press, New Haven, Connecticut.
+BLEU score: 6.309871835555244e-78
+Semantic similarity score (cosine-similarity): 0.9214631915092468
+
+Original English sentence: Nov 1993.
+Original Simple English sentence: 1993
+The Simple English sentence from model: 1993
+BLEU score: 1.821831989445342e-231
+Semantic similarity score (cosine-similarity): 0.9999998807907104
+
+Original English sentence: Oxford: Oxford University Press.
+Original Simple English sentence: Oxford:
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 7.57965434483665e-155
+Semantic similarity score (cosine-similarity): 0.8303817510604858
+
+Original English sentence: In 1809, as a result of the Finnish War, Finland was captured from Sweden and became a Grand Duchy of Finland, an autonomous state ruled by the Russian Empire.
+Original Simple English sentence: Then, in the year 1809, Russia took Finland from Sweden.
+The Simple English sentence from model: In 1809, Finland became a Grand Duchy of Finland, an autonomous state ruled by the Russian Empire.
+BLEU score: 2.250493055448548e-78
+Semantic similarity score (cosine-similarity): 0.8007709980010986
+
+Original English sentence: Appearance.
+Original Simple English sentence: Appearance (looks).
+The Simple English sentence from model: Appearance is not only for Appearance, but for Appearance.
+BLEU score: 2.3917119842750254e-78
+Semantic similarity score (cosine-similarity): 0.8010865449905396
+
+Original English sentence: June 2022.
+Original Simple English sentence: 2023.
+The Simple English sentence from model: 2023.
+BLEU score: 1.2213386697554703e-77
+Semantic similarity score (cosine-similarity): 1.0000001192092896
+
+Original English sentence: (2011).
+Original Simple English sentence: (2009)
+The Simple English sentence from model: 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.880646824836731
+
+Original English sentence: (2008).
+Original Simple English sentence: (2009)
+The Simple English sentence from model: 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.880646824836731
+
+Original English sentence: When dolphins surface, their lens and cornea correct the nearsightedness that results from the water's refraction of light.
+Original Simple English sentence: Dolphins have reasonable eyesight.
+The Simple English sentence from model: When dolphins surface, their lens and cornea correct the nearsightedness that results from the water's refraction of light.
+BLEU score: 9.50440384721771e-232
+Semantic similarity score (cosine-similarity): 0.6317511200904846
+
+Original English sentence: 2007
+Original Simple English sentence: 2007.
+The Simple English sentence from model: 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.7503610253334045
+
+Original English sentence: Edinburgh University Press.
+Original Simple English sentence: 5th ed, Oxford University Press.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 4.6278283821851e-155
+Semantic similarity score (cosine-similarity): 0.7341436743736267
+
+Original English sentence: Retrieved 2019-10-19.
+Original Simple English sentence: Retrieved 26 July 2018.
+The Simple English sentence from model: Retrieved April 2010.
+BLEU score: 7.422680762211792e-155
+Semantic similarity score (cosine-similarity): 0.7405056953430176
+
+Original English sentence: Clarendon Press, Oxford.
+Original Simple English sentence: Cambridge University Press.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 5.775353993361614e-78
+Semantic similarity score (cosine-similarity): 0.8468329906463623
+
+Original English sentence: (1995),
+Original Simple English sentence: 1995
+The Simple English sentence from model: (1995)
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.9107538461685181
+
+Original English sentence: The acoustic guitar is used in many kinds of music including folk, country, bluegrass, pop, jazz, and blues.
+Original Simple English sentence: There are many different types of guitars, classified on how they are made and the type of music they are used for.
+The Simple English sentence from model: The term acoustic guitar is generally used for a guitar used for a musical instrument.
+BLEU score: 4.197901539252047e-155
+Semantic similarity score (cosine-similarity): 0.6741386651992798
+
+Original English sentence: ''Merriam-Webster.com Dictionary''.
+Original Simple English sentence: Webster's Dictionary .
+The Simple English sentence from model: Merriam-Webster.
+BLEU score: 1.171778691554733e-231
+Semantic similarity score (cosine-similarity): 0.7098875641822815
+
+Original English sentence: File:Cathars expelled.
+Original Simple English sentence: File:Cathars expelled.
+The Simple English sentence from model: File:Cathars expelled.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: 8 January 1998.
+Original Simple English sentence: 1998.
+The Simple English sentence from model: 1998.
+BLEU score: 1.491668146240062e-154
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: 1990.
+Original Simple English sentence: 1995
+The Simple English sentence from model: 2002.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.502333402633667
+
+Original English sentence: Lake Huron!
+Original Simple English sentence: Lake Ontario!
+The Simple English sentence from model: Lake Huron!
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.7707422971725464
+
+Original English sentence: University of Wisconsin Press, 2016.
+Original Simple English sentence: University of Chicago Press.
+The Simple English sentence from model: Columbia University Press, New York.
+BLEU score: 1.4740564900137075e-231
+Semantic similarity score (cosine-similarity): 0.7159680128097534
+
+Original English sentence: 2015 !!
+Original Simple English sentence: 2015
+The Simple English sentence from model: 2015
+BLEU score: 1.821831989445342e-231
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: After premiering in 1982, it was nearly canceled during its first season when it ranked almost last in ratings for its premiere (74th out of 77 shows).
+Original Simple English sentence: It was nearly cancelled during its first season (in which it ranked dead last among 63 shows).  
+The Simple English sentence from model: After premiering in 1982, it was nearly canceled during its first season when it ranked almost last in ratings for its premiere (74th out of 77 shows).
+BLEU score: 0.12367562469761803
+Semantic similarity score (cosine-similarity): 0.6271421909332275
+
+Original English sentence: Cambridge, MA: Harvard University Press.
+Original Simple English sentence: Harvard University Press.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.601093590259552
+
+Original English sentence: New Haven, CT: Yale University Press.
+Original Simple English sentence: Yale University Press.
+The Simple English sentence from model: Yale University Press, New Haven, Connecticut.
+BLEU score: 4.335118471269586e-78
+Semantic similarity score (cosine-similarity): 0.8649002313613892
+
+Original English sentence: Dolphins communicate using a variety of clicks, whistle-like sounds and other vocalizations.
+Original Simple English sentence: They can know the direction of the sound very well.Dolphins and humans.
+The Simple English sentence from model: Dolphins communicate with each other via a variety of clicks, whistles and other vocalizations.
+BLEU score: 4.550160538169341e-155
+Semantic similarity score (cosine-similarity): 0.6882104277610779
+
+Original English sentence: Although the weaker five color theorem was proven already in the 1800s, the four color theorem resisted until 1976 when it was proven by Kenneth Appel and Wolfgang Haken.
+Original Simple English sentence: The shortest known proof of the four color theorem today still has over 600 cases.
+The Simple English sentence from model: Many false proofs and false counterexamples have appeared since the first statement of the four color theorem in 1852.
+BLEU score: 0.24636643452542223
+Semantic similarity score (cosine-similarity): 0.537202000617981
+
+Original English sentence: 1938.
+Original Simple English sentence: 1936
+The Simple English sentence from model: 1938
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.7565404176712036
+
+Original English sentence: Oxford University Press, 2002.
+Original Simple English sentence: Oxford: Oxford University Press.
+The Simple English sentence from model: 5th ed, Oxford University Press.
+BLEU score: 0.2626909894424158
+Semantic similarity score (cosine-similarity): 0.867178738117218
+
+Original English sentence: 2012.
+Original Simple English sentence: 2008.
+The Simple English sentence from model: 2011.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6935688257217407
+
+Original English sentence: 1938.
+Original Simple English sentence: 1940
+The Simple English sentence from model: 1938
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.719131588935852
+
+Original English sentence: Fear causes psychological changes that may produce behavioral reactions such as mounting an aggressive response or fleeing the threat.
+Original Simple English sentence: The fear response comes from sensing danger.
+The Simple English sentence from model: ''' Fear''' is a form of fear.
+BLEU score: 1.1008876702055895e-231
+Semantic similarity score (cosine-similarity): 0.686126708984375
+
+Original English sentence: This was the first historical settlement in what later became the city of Denver.
+Original Simple English sentence: This was the first settlement in what was later to become the city of Denver.
+The Simple English sentence from model: This was the first historical settlement in what later became the city of Denver.
+BLEU score: 0.4710593765802856
+Semantic similarity score (cosine-similarity): 0.9748486280441284
+
+Original English sentence: The sequence of bases along a particular DNA molecule specifies the genetic information, in a manner similar to a sequence of letters spelling out a sentence.
+Original Simple English sentence: This way, DNA can write 'codes' out of the 'letters' that are the bases.
+The Simple English sentence from model: A DNA molecule has a base that matches the base structure of a DNA molecule.
+BLEU score: 1.1472721157617718e-231
+Semantic similarity score (cosine-similarity): 0.5005103349685669
+
+Original English sentence: May 2011
+Original Simple English sentence: 2011
+The Simple English sentence from model: January 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6064487099647522
+
+Original English sentence: September 24, 2012.
+Original Simple English sentence: February 4, 2010.
+The Simple English sentence from model: January 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6390233039855957
+
+Original English sentence: Science.
+Original Simple English sentence: Science.
+The Simple English sentence from model: Science.
+BLEU score: 1.491668146240062e-154
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: 19 February 2013.
+Original Simple English sentence: January 2009.
+The Simple English sentence from model: February 4, 2010.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6390233039855957
+
+Original English sentence: The first ballet dance academy was the Royale de Danse (Royal Dance Academy), opened in Paris in 1661.
+Original Simple English sentence: In more recent times, the first dance school we know about was opened in 1661 in Paris.
+The Simple English sentence from model: The first ballet dance academy was the Royale de Danse (Royal Dance Academy).
+BLEU score: 1.2183324802375697e-231
+Semantic similarity score (cosine-similarity): 0.529047429561615
+
+Original English sentence: Johns Hopkins University Press.
+Original Simple English sentence: University College London Press.
+The Simple English sentence from model: Columbia University Press, New York.
+BLEU score: 1.4740564900137075e-231
+Semantic similarity score (cosine-similarity): 0.6851961612701416
+
+Original English sentence: Cold fusion papers are almost never published in refereed scientific journals, with the result that those works don't receive the normal critical scrutiny that science requires.
+Original Simple English sentence: This is why cold fusion is not generally accepted by scientists at the moment.
+The Simple English sentence from model: Cold fusion papers are rarely published in scientific journals.
+BLEU score: 3.8476696299631795e-155
+Semantic similarity score (cosine-similarity): 0.6316341757774353
+
+Original English sentence: Career.
+Original Simple English sentence: Career.
+The Simple English sentence from model: '''Recruiting''' is a way of getting started.
+BLEU score: 8.972141065609098e-232
+Semantic similarity score (cosine-similarity): 0.31683969497680664
+
+Original English sentence: After its founding in 1949, West Germany did not have a national anthem for official events for some years, despite a growing need for one for the purpose of diplomatic procedures.
+Original Simple English sentence: In 1949, the new West Germany tried to get a new song for the national anthem.
+The Simple English sentence from model: After its founding in 1949, West Germany did not have a national anthem for official events for some years, despite a growing need for one for the purpose of diplomatic procedures.
+BLEU score: 0.09798954472624168
+Semantic similarity score (cosine-similarity): 0.7106542587280273
+
+Original English sentence: Retrieved on March 17, 2009. (June 15, 2007).
+Original Simple English sentence: Retrieved on 5 March 2009.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.5740376710891724
+
+Original English sentence: Retrieved 16 December 2008.
+Original Simple English sentence: Retrieved 2007-10-12.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.6266014575958252
+
+Original English sentence: It closed in 1816 and was re-established in 1994.
+Original Simple English sentence: It closed in 1816, but was reopened in 1994.
+The Simple English sentence from model: It closed in 1816 and was re-established in 1994.
+BLEU score: 0.43748114312246444
+Semantic similarity score (cosine-similarity): 0.9228353500366211
+
+Original English sentence: A dolphin eye is relatively small for its size, yet they do retain a good degree of eyesight.
+Original Simple English sentence: Dolphins have reasonable eyesight.
+The Simple English sentence from model: A dolphin is very tall.
+BLEU score: 9.853445011990208e-232
+Semantic similarity score (cosine-similarity): 0.47869443893432617
+
+Original English sentence: A number of traditional harvest festivals  are celebrated on the date of the equinoxes.
+Original Simple English sentence: This was done in many cultures where festivals were celebrated at the equinoxes.
+The Simple English sentence from model: An equinox is the birth of a new year's harvest.
+BLEU score: 0.14639350349026062
+Semantic similarity score (cosine-similarity): 0.6153480410575867
+
+Original English sentence: Retrieved 16 December 2008.
+Original Simple English sentence: Retrieved March 10, 2005.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.7269831895828247
+
+Original English sentence: 2012.
+Original Simple English sentence: 2012
+The Simple English sentence from model: 2011.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.8337897062301636
+
+Original English sentence: The Art and Science of Fencing''.
+Original Simple English sentence: You may be wanting to read about a fence.'''''Fencing''' is a sport that includes two people with swords.
+The Simple English sentence from model: The science of feminism''.
+BLEU score: 4.502777928178369e-156
+Semantic similarity score (cosine-similarity): 0.08722780644893646
+
+Original English sentence: From 1989 until May 16, 2011, Chicago was under the leadership of its longest-serving mayor, Richard M. Daley, the son of Richard J. Daley.
+Original Simple English sentence: Daley was the longest serving Mayor of Chicago.
+The Simple English sentence from model: In 1989, Richard M. Daley, the son of Richard J. Daley, became the mayor of Chicago.
+BLEU score: 2.3964247400990494e-78
+Semantic similarity score (cosine-similarity): 0.652727484703064
+
+Original English sentence: References.
+Original Simple English sentence: References.
+The Simple English sentence from model: References.
+BLEU score: 1.2213386697554703e-77
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: As a result, December 25 on the Julian calendar currently corresponds to January 7 on the calendar used by most governments and people in everyday life.
+Original Simple English sentence: In such regions, Christmas is celebrated on 25 December in the Julian Calendar, but because of the difference between the calendars it is 7 January in the modern Gregorian Calendar.
+The Simple English sentence from model: December is the twelfth and last month of the year in the Gregorian calendar, and is one of two months of the year in the Gregorian calendar.
+BLEU score: 0.1008252795321211
+Semantic similarity score (cosine-similarity): 0.6948794722557068
+
+Original English sentence: Fear can alter how a person thinks or reacts to situations because fear has the power to inhibit one's rational way of thinking.
+Original Simple English sentence: An example of fear being bad is if it stops one from doing something important, like going to see a doctor.
+The Simple English sentence from model: Fear alters how a person thinks or reacts to situations because it has the power to inhibit his rational way of thinking.
+BLEU score: 4.535506046608914e-155
+Semantic similarity score (cosine-similarity): 0.7074873447418213
+
+Original English sentence: Orwell: The Authorized Biography''.
+Original Simple English sentence: Orwell: The Authorized Biography''.
+The Simple English sentence from model: Orwell: The Life''.
+BLEU score: 0.3436446393954861
+Semantic similarity score (cosine-similarity): 0.6580822467803955
+
+Original English sentence: Retrieved October 5, 2010.
+Original Simple English sentence: Retrieved April 2010.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.7405056953430176
+
+Original English sentence: 1942.
+Original Simple English sentence: 1940.
+The Simple English sentence from model: 1942
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.7093746066093445
+
+Original English sentence: These outcomes of evolution are distinguished based on time scale as macroevolution versus microevolution.
+Original Simple English sentence: Macroevolution: the study of changes above the species level, and how they take place.
+The Simple English sentence from model: Evolution is based on the relationship between time and time.
+BLEU score: 6.613992089093711e-232
+Semantic similarity score (cosine-similarity): 0.2687138319015503
+
+Original English sentence: Oxford, Oxford University Press. 1920.
+Original Simple English sentence: Oxford University Press.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 0.5081327481546147
+Semantic similarity score (cosine-similarity): 0.9739369750022888
+
+Original English sentence: American television series endingsCategory:1980s American workplace comedy television seriesCategory:1990s American workplace comedy television seriesCategory:20th century in BostonCategory:Television shows about alcohol abuseCategory:Best Musical or Comedy Series Golden Globe winnersCategory:Boston Red SoxCategory:Culture of BostonCategory:Cultural history of BostonCategory:English-language television showsCategory:
+Original Simple English sentence: American television series endingsCategory:1990s American sitcomsCategory:1990s romance television seriesCategory:2000s American sitcomsCategory:2000s romance television seriesCategory:Manhattan in fictionCategory:NBC network showsCategory:Romantic comedy television seriesCategory:Television series about friendshipCategory:Television series about siblingsCategory:Television series set in New York CityCategory:English-language television programs
+The Simple English sentence from model: American television series endingsCategory:1980s American sitcomsCategory:1990s American sitcomsCategory:Boston in fictionCategory:NBC network showsCategory:Television series set in MassachusettsCategory:Emmy Award winning Musical Series or Comedy Series
+BLEU score: 0.3630413287216842
+Semantic similarity score (cosine-similarity): 0.8312258124351501
+
+Original English sentence: Clapton grew up believing that his grandmother, Rose, and her second husband, Jack Clapp, Patricia's stepfather, were his parents, and that his mother was actually his older sister.
+Original Simple English sentence: Clapton was raised believing his mother was his sister.
+The Simple English sentence from model: Clapton was the mother of his grandmother, Rose Clapp, and stepfather of her second husband, Jack Clapp Clapp.
+BLEU score: 1.9749774403752623e-78
+Semantic similarity score (cosine-similarity): 0.6341565847396851
+
+Original English sentence:  Utah State Office of Education.
+Original Simple English sentence:  Utah State Office of Education.
+The Simple English sentence from model: The Utah State Office of Education.
+BLEU score: 0.8091067115702212
+Semantic similarity score (cosine-similarity): 0.989835262298584
+
+Original English sentence: Albigensian Crusade.
+Original Simple English sentence: The Albigensian Crusade.
+The Simple English sentence from model: The crusade was the last of the Albigensian crusade.
+BLEU score: 0.20105373454060027
+Semantic similarity score (cosine-similarity): 0.7537969350814819
+
+Original English sentence: There are also clocks for the blind that have displays that can be read by using the sense of touch.
+Original Simple English sentence: Some special clocks are often used by people who are blind or cannot see well enough to read an analog or digital clock.
+The Simple English sentence from model: Some clocks are sometimes used by people who are blind or cannot see well enough to read an analog or digital clock.
+BLEU score: 0.8143230221396732
+Semantic similarity score (cosine-similarity): 0.9800218343734741
+
+Original English sentence: Orwell, George.
+Original Simple English sentence: ''George Orwell''.
+The Simple English sentence from model: George Orwell biography''.
+BLEU score: 4.744822399347669e-78
+Semantic similarity score (cosine-similarity): 0.8657509088516235
+
+Original English sentence: 2009.
+Original Simple English sentence: 2008.
+The Simple English sentence from model: 2009.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.8426385521888733
+
+Original English sentence: Before typical cell division, these chromosomes are duplicated in the process of DNA replication, providing a complete set of chromosomes for each daughter cell.
+Original Simple English sentence: Before cell division, more chromosomes are made in the process of DNA replication.
+The Simple English sentence from model: Chromosomes are used to make chromosomes for each daughter cell.
+BLEU score: 0.22537412722674852
+Semantic similarity score (cosine-similarity): 0.6551278233528137
+
+Original English sentence: Runner-up!
+Original Simple English sentence: Runners-up!
+The Simple English sentence from model: Runner up!
+BLEU score: 6.397495320955232e-155
+Semantic similarity score (cosine-similarity): 0.8951207399368286
+
+Original English sentence: They have won three World Series titles (1906, 1917, 2005) and six American League pennants, including the first in 1901.
+Original Simple English sentence: They won the pennant, but lost the World Series in 1906, 1910, 1918, 1929, 1932, 1935, 1938, and 1945.
+The Simple English sentence from model: They have won six American League pennants, one in 1901.
+BLEU score: 1.9614231351983677e-155
+Semantic similarity score (cosine-similarity): 0.49896830320358276
+
+Original English sentence: In 1507 he was ordained as a priest in Erfurt Cathedral.
+Original Simple English sentence: He set up a church in Erfurt in 742.
+The Simple English sentence from model: In 1507 he was ordained as a priest in Erfurt Cathedral.
+BLEU score: 0.16617429299578945
+Semantic similarity score (cosine-similarity): 0.6989375352859497
+
+Original English sentence: Distillation:
+Original Simple English sentence: Distillation is a commonly used operation in many industries.
+The Simple English sentence from model: The process of distillation.
+BLEU score: 4.310732902257592e-232
+Semantic similarity score (cosine-similarity): 0.7841013669967651
+
+Original English sentence: There is currently no accepted theoretical model that would allow cold fusion to occur.
+Original Simple English sentence: This is why cold fusion is not generally accepted by scientists at the moment.
+The Simple English sentence from model: There is no accepted theoretical model that would allow cold fusion to occur.
+BLEU score: 2.9419669674855504e-78
+Semantic similarity score (cosine-similarity): 0.7290272116661072
+
+Original English sentence: This article contains some general information mainly about transmission electron microscopes.History.
+Original Simple English sentence: Transmission Electron Microscope (TEM).
+The Simple English sentence from model: Scanning Transmission Electron Microscope STEM.
+BLEU score: 0.392814650900513
+Semantic similarity score (cosine-similarity): 0.8288986086845398
+
+Original English sentence: Univ.
+Original Simple English sentence: Harvard Univ.
+The Simple English sentence from model: Univ.
+BLEU score: 8.751273976943354e-78
+Semantic similarity score (cosine-similarity): 0.46216726303100586
+
+Original English sentence: By the late 1970s, most major US cities had thriving disco club scenes.
+Original Simple English sentence: Disco was at its most popular in the United States and Europe in the late 1970s and early 1980s.
+The Simple English sentence from model: In the late 1970s, there were famous disco clubs such as disco, disco and disco.
+BLEU score: 0.11408424519986968
+Semantic similarity score (cosine-similarity): 0.7745473980903625
+
+Original English sentence: Retrieved 2019-10-09.
+Original Simple English sentence: Retrieved 26 July 2018.
+The Simple English sentence from model: Retrieved April 2010.
+BLEU score: 7.422680762211792e-155
+Semantic similarity score (cosine-similarity): 0.7405056953430176
+
+Original English sentence: Retrieved 27 March 2007.
+Original Simple English sentence: Retrieved on 5 March 2009.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.5740376710891724
+
+Original English sentence: Folk songs are categorized by geographic region, language type, ethnicity, social function (e.g. work song, ritual song, courting song) and musical type.
+Original Simple English sentence: Folk song is part of folk music.
+The Simple English sentence from model: Folk music is music for everybody to play and listen to.
+BLEU score: 1.384292958842266e-231
+Semantic similarity score (cosine-similarity): 0.7774237990379333
+
+Original English sentence: Professionals and amateurs alike collect fossils for their scientific value.
+Original Simple English sentence: Some fossils are found and sold.
+The Simple English sentence from model: People have found many uses for fossils.
+BLEU score: 7.241926111174567e-155
+Semantic similarity score (cosine-similarity): 0.7318485975265503
+
+Original English sentence: Catalysts are substances that make weak bonds with reactants or intermediates and change the pathway (mechanism) of a reaction which in turn increases the speed of a reaction by lowering the activation energy needed for the reaction to take place.
+Original Simple English sentence: A '''catalyst''' is something which changes the rate of a chemical reaction.
+The Simple English sentence from model: Most catalysts work by lowering the 'activation energy' of a reaction.
+BLEU score: 2.564996181773038e-78
+Semantic similarity score (cosine-similarity): 0.7320386171340942
+
+Original English sentence: 2014.
+Original Simple English sentence: 2009.
+The Simple English sentence from model: 2011.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.7683373689651489
+
+Original English sentence: Sci.
+Original Simple English sentence: Sci.
+The Simple English sentence from model: Sci.
+BLEU score: 1.491668146240062e-154
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: Ernest Hemingway: A Life Story''.
+Original Simple English sentence: Hemingway's early life.
+The Simple English sentence from model: Hemingway was working on a long story.
+BLEU score: 0.22416933501922293
+Semantic similarity score (cosine-similarity): 0.707650899887085
+
+Original English sentence: George Orwell: The Lost Writings''.
+Original Simple English sentence: A Study of George Orwell: The Man and His Works''.
+The Simple English sentence from model: George Orwell biography''.
+BLEU score: 2.693115892599314e-78
+Semantic similarity score (cosine-similarity): 0.7485442757606506
+
+Original English sentence: Cambridge: Cambridge University Press.
+Original Simple English sentence: Cambridge University Press.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 5.775353993361614e-78
+Semantic similarity score (cosine-similarity): 0.8468329906463623
+
+Original English sentence: Living cactus fences are employed as barricades around buildings to prevent people breaking in.
+Original Simple English sentence: Cactus can be used as a living fence.
+The Simple English sentence from model: Cactus fences are used to protect against breaking into the building.
+BLEU score: 3.144783539361942e-78
+Semantic similarity score (cosine-similarity): 0.718031644821167
+
+Original English sentence: Hobbes's dual nature is a defining motif for the strip: to Calvin, Hobbes is a living anthropomorphic tiger, while all the other characters seem to see Hobbes as an inanimate stuffed Watterson has not clarified exactly how Hobbes is perceived by others.
+Original Simple English sentence: However, from Calvin's point of view, Hobbes is as alive and real just like other characters in the comic strip.
+The Simple English sentence from model: In fact, Hobbes' dual nature is a defining motif for the strip.
+BLEU score: 0.10947716364478485
+Semantic similarity score (cosine-similarity): 0.6365243792533875
+
+Original English sentence: Academic Press.
+Original Simple English sentence: Johns Hopkins University Press.
+The Simple English sentence from model: University College London Press.
+BLEU score: 7.600394483915427e-155
+Semantic similarity score (cosine-similarity): 0.7378979921340942
+
+Original English sentence: Unlike the rest of the violin family, the double bass still reflects influences, and can be considered partly derived, from the viol family of instruments, in particular the violone, the lowest-pitched and largest bass member of the viol family.
+Original Simple English sentence: The double bass also has influences from the viol family.
+The Simple English sentence from model: The double bass is usually considered a member of the violin family, because it is constructed using many of the same techniques as violins.
+BLEU score: 1.9952362698323714e-78
+Semantic similarity score (cosine-similarity): 0.6233803033828735
+
+Original English sentence: Reactions can proceed by themselves if they are exergonic, that is if they release free energy.
+Original Simple English sentence: Some reactions give out energy.
+The Simple English sentence from model: Reactions can proceed by themselves, even if they are exergonic.
+BLEU score: 8.844844403089351e-232
+Semantic similarity score (cosine-similarity): 0.5261934995651245
+
+Original English sentence: 2005.
+Original Simple English sentence: 2009.
+The Simple English sentence from model: 2004.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.4988459348678589
+
+Original English sentence: Reports relay several wars with Syracuse and finally, Rome, which eventually resulted in the defeat and destruction of Carthage in the Third Punic War.
+Original Simple English sentence: The Roman Republic destroyed Carthage during the Punic Wars of the 3rd and 2nd centuries BC.
+The Simple English sentence from model: Reports relay several wars with Syracuse and finally, Rome, which eventually resulted in the defeat and destruction of Carthage in the Third Punic War.
+BLEU score: 2.1265660881898582e-78
+Semantic similarity score (cosine-similarity): 0.6857631206512451
+
+Original English sentence: Dairy product!
+Original Simple English sentence: Dairy products made from cream.
+The Simple English sentence from model: Dairy products.
+BLEU score: 0.3880684294761699
+Semantic similarity score (cosine-similarity): 0.8485615849494934
+
+Original English sentence: Much of the mathematics of chaos theory involves the repeated iteration of simple mathematical formulas, which would be impractical to do by hand.
+Original Simple English sentence: '''Chaos theory''' is a part of mathematics.
+The Simple English sentence from model: Chaos theory involves repeated iteration of simple mathematical formulas, which would be impossible to do by hand.
+BLEU score: 1.1896457329133973e-231
+Semantic similarity score (cosine-similarity): 0.7134393453598022
+
+Original English sentence: He is regarded as one of the most influential musicians of the 20th century.
+Original Simple English sentence: He was one of the most important composers of the early 20th century.
+The Simple English sentence from model: He is most famous composer.
+BLEU score: 3.1092910180411374e-232
+Semantic similarity score (cosine-similarity): 0.6276341080665588
+
+Original English sentence: University Press of Kansas.
+Original Simple English sentence: Columbia University Press, New York.
+The Simple English sentence from model: Johns Hopkins University Press.
+BLEU score: 7.100514228897259e-155
+Semantic similarity score (cosine-similarity): 0.6860014200210571
+
+Original English sentence: '''Enzyme activity'''.
+Original Simple English sentence: Control of enzyme activity.
+The Simple English sentence from model: Enzymes have evolved their own activity.
+BLEU score: 6.08970970641905e-155
+Semantic similarity score (cosine-similarity): 0.6040011644363403
+
+Original English sentence: 1998.  
+Original Simple English sentence: 1998.
+The Simple English sentence from model: 1998.
+BLEU score: 1.491668146240062e-154
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: Jenette Kahn, a former children's magazine publisher, replaced Infantino as editorial director in January 1976.
+Original Simple English sentence: The new corporate management replaced Infantino with Jenette Kahn, a former children's magazine publisher, in January 1976.
+The Simple English sentence from model: In 1976, Infantino was promoted to editorial director by Jenette Kahn.
+BLEU score: 0.16707081893902806
+Semantic similarity score (cosine-similarity): 0.7938060760498047
+
+Original English sentence: Double bass players use various accessories to help them to perform and rehearse.
+Original Simple English sentence: This makes it easier for the double bass player, the other musicians, and the audience to hear the double bass's musical notes.
+The Simple English sentence from model: Double bass players can also play other double bass games, even if they are playing traditional double bass games.
+BLEU score: 4.958387218522546e-155
+Semantic similarity score (cosine-similarity): 0.7205542325973511
+
+Original English sentence: Emotions play a crucial role in social interactions.
+Original Simple English sentence: Function of emotions.
+The Simple English sentence from model: The nature of emotions.
+BLEU score: 6.86809206056511e-78
+Semantic similarity score (cosine-similarity): 0.9018970131874084
+
+Original English sentence: Early and medieval era.
+Original Simple English sentence: Middle Ages.
+The Simple English sentence from model: Early and medieval era.
+BLEU score: 1.1640469867513693e-231
+Semantic similarity score (cosine-similarity): 0.5797573328018188
+
+Original English sentence: Modernist writersCategory:Nobel laureates in LiteratureCategory:Novelists from IllinoisCategory:People from Ketchum, IdahoCategory:American psychological fiction writersCategory:Pulitzer Prize for Fiction winnersCategory:Recipients of the Silver Medal of Military ValorCategory:Suicides by firearm in IdahoCategory:Survivors of aviation accidents or incidentsCategory:Toronto Star peopleCategory:Writers about activism and social changeCategory:Writers from ChicagoCategory:Writers from Oak Park, IllinoisCategory:Writers of historical fiction set in the modern age
+Original Simple English sentence: Category:1899 birthsCategory:1985 deathsCategory:Writers from New York (state)Category:Pulitzer Prize winnersCategory:People from Mount Vernon, New YorkCategory:American children's writersCategory:American journalistsCategory:American novelistsCategory:American poetsCategory:American screenwritersCategory:
+The Simple English sentence from model: Category:Writers from ChicagoCategory:Survivors of aviation accidents or incidentsCategory:Writers from Oak Park, IllinoisCategory:Suicides by firearm in Idaho
+BLEU score: 0.08842307334408203
+Semantic similarity score (cosine-similarity): 0.4864283800125122
+
+Original English sentence: (2003).
+Original Simple English sentence: 2003.
+The Simple English sentence from model: ed., Oxford.
+BLEU score: 1.1200407237786664e-231
+Semantic similarity score (cosine-similarity): 0.21847540140151978
+
+Original English sentence: Henry Regnery Co. 1956.
+Original Simple English sentence: Henry Regnery Co. 1956.
+The Simple English sentence from model: Henry Regnery Co. 1956.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: (2002).
+Original Simple English sentence: 2003.
+The Simple English sentence from model: '''Blissade'''.
+BLEU score: 9.418382295637229e-232
+Semantic similarity score (cosine-similarity): 0.1909942328929901
+
+Original English sentence: London: Oxford University Press, 1960.
+Original Simple English sentence: 5th ed, Oxford University Press.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 0.2608840516436559
+Semantic similarity score (cosine-similarity): 0.867178738117218
+
+Original English sentence: The birth narrative in Luke's gospel is one of the most familiar passages in the Bible.
+Original Simple English sentence: The Gospel of Luke gives details about birth.
+The Simple English sentence from model: The birth narrative in Luke's gospel is one of the most familiar passages in the Bible.
+BLEU score: 1.2882297539194154e-231
+Semantic similarity score (cosine-similarity): 0.8488695621490479
+
+Original English sentence: Cambridge, MA: Harvard University Press, 1928.
+Original Simple English sentence: Cambridge, Massachusetts, and London, England: Belknap Press of Harvard University.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 1.9940756697790974e-232
+Semantic similarity score (cosine-similarity): 0.6426365375518799
+
+Original English sentence: HarperCollins. 1991.
+Original Simple English sentence: HarperCollins.
+The Simple English sentence from model: HarperCollins. 1991.
+BLEU score: 0.6803749333171202
+Semantic similarity score (cosine-similarity): 0.9319623708724976
+
+Original English sentence: Johns Hopkins University Press.
+Original Simple English sentence: Johns Hopkins University Press.
+The Simple English sentence from model: Columbia University Press, New York.
+BLEU score: 7.711523862191631e-155
+Semantic similarity score (cosine-similarity): 0.6860014200210571
+
+Original English sentence: During the year, equinoxes alternate with solstices.
+Original Simple English sentence: There are two equinoxes each year.  
+The Simple English sentence from model: There are equinoxes and solstices.
+BLEU score: 0.44082318755867267
+Semantic similarity score (cosine-similarity): 0.7712206840515137
+
+Original English sentence: Chloroplasts are one of many types of organelles in the plant cell.
+Original Simple English sentence: Chloroplasts are one of the many different types of organelles in the cell.
+The Simple English sentence from model: Chloroplasts are the organelles found in the plant cell.
+BLEU score: 0.33838087665080047
+Semantic similarity score (cosine-similarity): 0.8891278505325317
+
+Original English sentence: Dundee has two universities the University of Dundee and Abertay University.
+Original Simple English sentence: They are called the ''University of Dundee'' and the ''University of Abertay Dundee''.
+The Simple English sentence from model: There are two universities in Dundee.
+BLEU score: 3.185003070352479e-79
+Semantic similarity score (cosine-similarity): 0.7952443957328796
+
+Original English sentence: National Weather Service.
+Original Simple English sentence: National Weather Service.
+The Simple English sentence from model: National Weather Service.
+BLEU score: 1.0
+Semantic similarity score (cosine-similarity): 0.9999999403953552
+
+Original English sentence: Although the Milestone line ceased publication after a few years, it yielded the popular animated series ''Static Shock''.
+Original Simple English sentence: Although the Milestone line ceased publication, it yielded the popular animated series ''Static Shock''.
+The Simple English sentence from model: Although the Milestone line ceased publication after a few years, it yielded the popular animated series ''Static Shock'''.
+BLEU score: 0.7577297636239521
+Semantic similarity score (cosine-similarity): 0.9720761179924011
+
+Original English sentence: As a forerunner of revolution, France's tricolour flag style has been adopted by other nations.
+Original Simple English sentence: The Tricolore becomes the national flag of France.
+The Simple English sentence from model: As a precursor of revolution, France's tricolour flag style has been adopted by many nations.
+BLEU score: 1.2035620841904511e-231
+Semantic similarity score (cosine-similarity): 0.7431391477584839
+
+Original English sentence: In addition to those actors who have headlined the series, others have portrayed versions of the Doctor in guest roles.
+Original Simple English sentence: Because of this, the Doctor can be played by different actors.
+The Simple English sentence from model: Some have portrayed the Doctor in guest roles.
+BLEU score: 4.721756180471194e-155
+Semantic similarity score (cosine-similarity): 0.8018537759780884
+
+Original English sentence: Cambridge University Press (1988).
+Original Simple English sentence: 3rd ed, Cambridge University Press.
+The Simple English sentence from model: 5th ed, Oxford University Press.
+BLEU score: 0.343763879968285
+Semantic similarity score (cosine-similarity): 0.8657222390174866
+
+Original English sentence: ''BBC News''.
+Original Simple English sentence: ''bbc.co.uk''.
+The Simple English sentence from model: BBC News.
+BLEU score: 4.938325780438735e-233
+Semantic similarity score (cosine-similarity): 0.7219111919403076
+
+Original English sentence: 4 April 2002.
+Original Simple English sentence: 2002
+The Simple English sentence from model: 2002
+BLEU score: 1.821831989445342e-231
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: Retrieved on 10 October 2010.
+Original Simple English sentence: Retrieved 2007-10-12.
+The Simple English sentence from model: Retrieved March 10, 2005.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.7327331304550171
+
+Original English sentence: (2013).
+Original Simple English sentence: (2009)
+The Simple English sentence from model: 2004.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.5002345442771912
+
+Original English sentence: 1999.
+Original Simple English sentence: 2003.
+The Simple English sentence from model: 2002
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.7785667777061462
+
+Original English sentence: 2019 2001.
+Original Simple English sentence: 1999
+The Simple English sentence from model: 2002.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.6715728640556335
+
+Original English sentence: Analog circuits.
+Original Simple English sentence: Digital circuits.
+The Simple English sentence from model: Analog circuits.
+BLEU score: 6.86809206056511e-78
+Semantic similarity score (cosine-similarity): 0.8355333805084229
+
+Original English sentence: Orwell's Politics''.
+Original Simple English sentence: Orwell: The Life''.
+The Simple English sentence from model: Orwell's Politics''.
+BLEU score: 5.072841446586652e-78
+Semantic similarity score (cosine-similarity): 0.7137563824653625
+
+Original English sentence: Retrieved 7 September 2012.
+Original Simple English sentence: Retrieved April 2010.
+The Simple English sentence from model: Retrieved on 5 March 2009.
+BLEU score: 7.57965434483665e-155
+Semantic similarity score (cosine-similarity): 0.7130551934242249
+
+Original English sentence: El Salvador's capital and largest city is San Salvador.
+Original Simple English sentence: The country's capital and largest city is San Salvador.
+The Simple English sentence from model: The capital and largest city of El Salvador is San Salvador.
+BLEU score: 0.4366835442847812
+Semantic similarity score (cosine-similarity): 0.9403332471847534
+
+Original English sentence: University of North Carolina Press.
+Original Simple English sentence: Indiana University Press.
+The Simple English sentence from model: Columbia University Press, New York.
+BLEU score: 7.711523862191631e-155
+Semantic similarity score (cosine-similarity): 0.6358550190925598
+
+Original English sentence: Oxford University Press, 2011.
+Original Simple English sentence: Cambridge University Press.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 5.775353993361614e-78
+Semantic similarity score (cosine-similarity): 0.8468329906463623
+
+Original English sentence: The Cambridge Companion to George Orwell''.
+Original Simple English sentence: George Orwell: A Life''.
+The Simple English sentence from model: ''The Cambridge Companion to George Orwell''.
+BLEU score: 4.447395532093327e-78
+Semantic similarity score (cosine-similarity): 0.6112362146377563
+
+Original English sentence: Retrieved 25 October 2005.
+Original Simple English sentence: Retrieved 26 July 2018.
+The Simple English sentence from model: Retrieved April 2010.
+BLEU score: 7.422680762211792e-155
+Semantic similarity score (cosine-similarity): 0.7405056953430176
+
+Original English sentence: 2005
+Original Simple English sentence: 2004.
+The Simple English sentence from model: 2004.
+BLEU score: 1.491668146240062e-154
+Semantic similarity score (cosine-similarity): 1.0000001192092896
+
+Original English sentence: There are a total  of water within El Salvador's borders.
+Original Simple English sentence: El Salvador has over 300 rivers.
+The Simple English sentence from model: There are a total of water within El Salvador's borders.
+BLEU score: 5.3448396730677054e-155
+Semantic similarity score (cosine-similarity): 0.7413925528526306
+
+Original English sentence: Retrieved November 30, 2011.
+Original Simple English sentence: Retrieved 2007-10-12.
+The Simple English sentence from model: Retrieved March 10, 2005.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.7327331304550171
+
+Original English sentence: All living organisms constantly take in and release energy.
+Original Simple English sentence: Every organism needs energy to carry on with the process of living which comes from food.
+The Simple English sentence from model: All living organisms take in energy.
+BLEU score: 4.973584861914399e-232
+Semantic similarity score (cosine-similarity): 0.7399650812149048
+
+Original English sentence: The city has a diverse economy based on education, government, insurance, banking, defense, aviation, food, clothes, logistics, steel, energy, medical research, health care, hospitality, retail and technology.
+Original Simple English sentence: The city has a diverse economy based on education, government, insurance, banking, fashion, defense, aviation, food, clothes, logistics, steel, energy, medical research, health care, hospitality, retail, and technology.
+The Simple English sentence from model: The city has a diverse economy based on education, government, insurance, banking, defense, aviation, food, clothes, logistics, steel, energy, medical research, health care, hospitality, retail and technology.
+BLEU score: 0.8824044944346633
+Semantic similarity score (cosine-similarity): 0.9940201044082642
+
+Original English sentence: Uses.
+Original Simple English sentence: Uses.
+The Simple English sentence from model: Uses.
+BLEU score: 1.2213386697554703e-77
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: Retrieved 24 February 2007.
+Original Simple English sentence: Retrieved on 5 March 2009.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.5740376710891724
+
+Original English sentence: Medieval era.
+Original Simple English sentence: Ancient and Medieval Eras.
+The Simple English sentence from model: Middle Ages.
+BLEU score: 2.73065165079649e-155
+Semantic similarity score (cosine-similarity): 0.5400123596191406
+
+Original English sentence: Cambridge, Massachusetts: Harvard Univ.
+Original Simple English sentence: Cambridge.
+The Simple English sentence from model: Harvard Univ.
+BLEU score: 1.2882297539194154e-231
+Semantic similarity score (cosine-similarity): 0.40898001194000244
+
+Original English sentence: BBC.
+Original Simple English sentence: BBC News.
+The Simple English sentence from model: BBC News.
+BLEU score: 1.2213386697554703e-77
+Semantic similarity score (cosine-similarity): 1.0
+
+Original English sentence: : The Mathematics of Chaos '', Blackwell Publishers, 1990.
+Original Simple English sentence: '''Chaos theory''' is a part of mathematics.
+The Simple English sentence from model: Blackwell Publishers, London.
+BLEU score: 2.3987582773118944e-232
+Semantic similarity score (cosine-similarity): -0.0958663746714592
+
+Original English sentence: He was among the most influential composers of the late 19th and early 20th centuries.
+Original Simple English sentence: He was one of the most important composers of the early 20th century.
+The Simple English sentence from model: He was also one of the most influential composers of the late 19th and early 20th centuries.
+BLEU score: 0.30603689509300896
+Semantic similarity score (cosine-similarity): 0.8993673920631409
+
+Original English sentence: Oxford.
+Original Simple English sentence: Oxford, New York.
+The Simple English sentence from model: Oxford:
+BLEU score: 3.418291552750845e-232
+Semantic similarity score (cosine-similarity): 0.809888482093811
+
+Original English sentence: Princeton University Press.
+Original Simple English sentence: Princeton.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 1.1640469867513693e-231
+Semantic similarity score (cosine-similarity): 0.3558962345123291
+
+Original English sentence: It is obvious, however, that Chaucer borrowed portions, sometimes very large portions, of his stories from earlier stories, and that his work was influenced by the general state of the literary world in which he lived.
+Original Simple English sentence: Some people think that Chaucer copied ideas from others writings because some of the stories in ''The Canterbury Tales'' are very similar to them.
+The Simple English sentence from model: Chaucer has many other things to say about his stories, and many others about his life.
+BLEU score: 2.5983463559050838e-155
+Semantic similarity score (cosine-similarity): 0.6414625644683838
+
+Original English sentence: Paris:
+Original Simple English sentence: In Paris.
+The Simple English sentence from model: Paris.
+BLEU score: 9.047424648113057e-155
+Semantic similarity score (cosine-similarity): 0.9359167218208313
+
+Original English sentence: Early beginnings.
+Original Simple English sentence: Early history.
+The Simple English sentence from model: Early beginnings.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.796298623085022
+
+Original English sentence: In the late '70s, Studio 54 in Midtown Manhattan was arguably the best-known nightclub in the world.
+Original Simple English sentence: In the late 1970s, there were famous disco clubs such as Studio 54 in New York City.
+The Simple English sentence from model: Studio 54 in Midtown Manhattan was in the 1970s the best nightclub in the world.
+BLEU score: 2.69498880867194e-78
+Semantic similarity score (cosine-similarity): 0.7699249982833862
+
+Original English sentence: A Guide Through the Theory of Knowledge'' (Third Edition) Oxford:
+Original Simple English sentence: Theory of knowledge''.
+The Simple English sentence from model: 3rd Edition Cambridge University Press.
+BLEU score: 1.0832677820940877e-231
+Semantic similarity score (cosine-similarity): 0.07559908926486969
+
+Original English sentence: 1998.  
+Original Simple English sentence: 2004.
+The Simple English sentence from model: 1998.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.5211138725280762
+
+Original English sentence: Galton divided the practice of eugenics into two and aimed at improving the human race through selective breeding.
+Original Simple English sentence: Galton developed the idea of eugenics throughout his life.
+The Simple English sentence from model: Eugenics is a common practice in the human race.
+BLEU score: 1.16338362758752e-231
+Semantic similarity score (cosine-similarity): 0.6297024488449097
+
+Original English sentence: 2000.
+Original Simple English sentence: 2002.
+The Simple English sentence from model: 2000.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.665839672088623
+
+Original English sentence: Due to his increasingly poor health, William Hartnell, first actor to play the Doctor, was succeeded by Patrick Troughton in 1966.
+Original Simple English sentence: When Hartnell left the show in 1966, the writers came up with the idea that the Doctor would ''regenerate'' (at the time called ''renewal'') and transform into the Second Doctor, who was played by Patrick Troughton.
+The Simple English sentence from model: Patrick Troughton, John Huron and William Hartnell played The Doctor.
+BLEU score: 0.02245789275735649
+Semantic similarity score (cosine-similarity): 0.5418040156364441
+
+Original English sentence: On some four-sided dice, each face features multiple numbers, with the same number printed near each vertex on all sides.
+Original Simple English sentence: Most dice are cubes that have the numbers 1, 2, 3, 4, 5 and 6 on the faces.
+The Simple English sentence from model: Some dice have different numbers of sides.
+BLEU score: 3.0166317074337077e-232
+Semantic similarity score (cosine-similarity): 0.7138015627861023
+
+Original English sentence: Retrieved on July 24, 2008.
+Original Simple English sentence: Retrieved 2007-10-12.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 6.867731683891005e-155
+Semantic similarity score (cosine-similarity): 0.6266014575958252
+
+Original English sentence: The use of fossils to address health issues is rooted in traditional medicine and include the use of fossils as talismans.
+Original Simple English sentence: People have found many uses for fossils.
+The Simple English sentence from model: There are many different types of fossils, classified as talismans.
+BLEU score: 5.359624986283916e-155
+Semantic similarity score (cosine-similarity): 0.5781927704811096
+
+Original English sentence: If it is a Sunday, Boxing Day is transferred to December 27 by Royal Proclamation.
+Original Simple English sentence: If it is a Sunday, it is moved to December 27 by Royal Proclamation.
+The Simple English sentence from model: If it is a Sunday, Boxing Day is transferred to December 27 by Royal Proclamation.
+BLEU score: 0.6677604630703731
+Semantic similarity score (cosine-similarity): 0.773342490196228
+
+Original English sentence: 2007.
+Original Simple English sentence: 2008.
+The Simple English sentence from model: 2002.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.482799768447876
+
+Original English sentence: Cocaine can induce psychosis characterized by paranoia, impaired reality testing, hallucinations, irritability, and physical aggression.
+Original Simple English sentence: If a person uses cocaine for a long time, they can start to get strange feelings, like there are bugs crawling under their skin, or they can get paranoia (a feeling that there are people that want to hurt them).
+The Simple English sentence from model: Cocaine is used to treat paranoia, impaired reality testing, hallucinations, irritability, and aggression.
+BLEU score: 9.054036994125656e-79
+Semantic similarity score (cosine-similarity): 0.7452970743179321
+
+Original English sentence: Cambridge University Press, Cambridge and New York, pp.
+Original Simple English sentence: Columbia University Press, New York.
+The Simple English sentence from model: 5th ed, Oxford University Press.
+BLEU score: 6.8489908526642754e-155
+Semantic similarity score (cosine-similarity): 0.5200421810150146
+
+Original English sentence: Sporting
+Original Simple English sentence: Sports.
+The Simple English sentence from model: Sport.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.9385507106781006
+
+Original English sentence: Transportation.
+Original Simple English sentence: Transport.
+The Simple English sentence from model: Transportation.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.8174822926521301
+
+Original English sentence: Oxford University Press, 2019.
+Original Simple English sentence: Oxford University Press, Oxford.
+The Simple English sentence from model: Oxford: Oxford University Press.
+BLEU score: 6.562069055463047e-78
+Semantic similarity score (cosine-similarity): 0.9829261302947998
+
+Original English sentence: Analog circuits are becoming less common, as many of their functions are being digitized.
+Original Simple English sentence: Even though more digital circuits are now made, analog circuits will always be necessary since the world and its people work in analog ways.
+The Simple English sentence from model: Analog circuits use less noise than traditional analog circuits.
+BLEU score: 1.2328660565025036e-78
+Semantic similarity score (cosine-similarity): 0.6610594987869263
+
+Original English sentence: Cambridge and New York: Cambridge University Press.
+Original Simple English sentence: University College London Press.
+The Simple English sentence from model: Oxford University Press, Oxford.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.7462127804756165
+
+Original English sentence: Internal combustion engine.
+Original Simple English sentence: This is called an internal combustion engine.  
+The Simple English sentence from model: There are many different types of internal combustion engine.
+BLEU score: 0.2626909894424158
+Semantic similarity score (cosine-similarity): 0.8657707571983337
+
+Original English sentence: Retrieved 24 February 2007.
+Original Simple English sentence: Retrieved April 2010.
+The Simple English sentence from model: Retrieved 26 July 2018.
+BLEU score: 8.38826642100846e-155
+Semantic similarity score (cosine-similarity): 0.7405056953430176
+
+Original English sentence: New York:  Cambridge University Press.  
+Original Simple English sentence: Cambridge, Massachusetts, and London, England: Belknap Press of Harvard University.
+The Simple English sentence from model: Oxford University Press, Oxford.
+BLEU score: 1.8858803324110566e-232
+Semantic similarity score (cosine-similarity): 0.5896367430686951
+
+Original English sentence: Since World War II and the fall of Nazi Germany, only the third stanza has been used as the national anthem.
+Original Simple English sentence: After East and West Germany united in 1990, the song again became the national anthem of Germany but only the third stanza is used.
+The Simple English sentence from model: The song is not a national anthem, but a patriotic song supporting a united German state.
+BLEU score: 0.09683194089026813
+Semantic similarity score (cosine-similarity): 0.6758983135223389
+
+Original English sentence: Cambridge: Cambridge University Press, 2000.
+Original Simple English sentence: Oxford University Press, Oxford.
+The Simple English sentence from model: Cambridge University Press, Cambridge.
+BLEU score: 6.206021746903507e-78
+Semantic similarity score (cosine-similarity): 0.8070186376571655
+
+Original English sentence: 2005
+Original Simple English sentence: 2009.
+The Simple English sentence from model: 2004.
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.4988459348678589
+
+Original English sentence: Early life and education.
+Original Simple English sentence: Early Life.
+The Simple English sentence from model: Early life and career.
+BLEU score: 1.4488496539373276e-231
+Semantic similarity score (cosine-similarity): 0.8365103006362915
+
+Original English sentence: Language.
+Original Simple English sentence: Language.
+The Simple English sentence from model: English.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.5803701877593994
+
+Original English sentence: University of California Press.
+Original Simple English sentence: University of Chicago Press.
+The Simple English sentence from model: Columbia University Press, New York.
+BLEU score: 1.4740564900137075e-231
+Semantic similarity score (cosine-similarity): 0.7159680128097534
+
+Original English sentence: 2019 2001.
+Original Simple English sentence: 2003.
+The Simple English sentence from model: 2002.
+BLEU score: 1.5319719891192393e-231
+Semantic similarity score (cosine-similarity): 0.8036202192306519
+
+Original English sentence: Digital clocks display a numeric representation of time.
+Original Simple English sentence: Digital clocks.
+The Simple English sentence from model: Digital clocks use gestures to show time.
+BLEU score: 3.965294799986402e-78
+Semantic similarity score (cosine-similarity): 0.826453447341919
+
+Original English sentence: (1947).
+Original Simple English sentence: 1947
+The Simple English sentence from model: 1945
+BLEU score: 0
+Semantic similarity score (cosine-similarity): 0.7623484134674072
+
+Original English sentence: There are several types of electric guitar.
+Original Simple English sentence: These guitars, which are often used in popular music, are called ''electric guitars''.
+The Simple English sentence from model: Different kinds of guitars.
+BLEU score: 4.933682340803909e-156
+Semantic similarity score (cosine-similarity): 0.7854608297348022
+
+Original English sentence: Consequently, many countries adopted eugenic policies, intended to improve the quality of their populations' genetic stock.
+Original Simple English sentence: The idea to improve the human species by selective breeding is called eugenics.
+The Simple English sentence from model: In many parts of the world nearly all eugenics countries adopted them.
+BLEU score: 0.2195753261491829
+Semantic similarity score (cosine-similarity): 0.6125770211219788
+
